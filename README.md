@@ -1,0 +1,1 @@
+# py-serverless-s3-thumbnailer
